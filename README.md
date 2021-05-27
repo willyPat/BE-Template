@@ -1,6 +1,10 @@
-# DEEL BACKEND TASK
+# SOME COMMENTS ABOUT THE RESOLUTION
+With more time I'd have loved to change the folder structure. I like to have a folder for every "concept" (ie: contractor)and each folder define it's own middlwares, validators, routes and controllers. Then the app imports all routes.
+And yes... the testing!
 
-  
+Thanks!
+
+## DEEL BACKEND TASK
 
 💫 Welcome! 🎉
 
